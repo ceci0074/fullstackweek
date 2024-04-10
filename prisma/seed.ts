@@ -90,7 +90,7 @@ async function seedDatabase() {
         name: "Hidratação",
         description: "Hidratação profunda para cabelo e barba.",
         price: 25.0,
-        imageURL: "Fios hidratados, macios e brilhantes.",
+        imageURL: "https://blog.mensmarket.com.br/wp-content/uploads/2015/12/barba-produtos.png",
       },
     ];
 
